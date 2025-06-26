@@ -20,10 +20,12 @@ Tkinter helps with the UI, with a variety of different components. I mainly used
 Keep in mind, I am running MacOS, so here is how I ran it on Mac.
 
 ##Terminal
-1. Setting up
-```bash
-Download the zip file containing this project.
-```
+1. Download the zip file for this project.
+2. Open Terminal
+3. Type ```bash cd .../.../.../Squid-Game ``` where ever the file is located (make sure it's not in ZIP format)
+4. If not installed already, make sure Python is installed. ```bash pip install python3```
+5. Type ```bash python3 main.py```
+6. Program should run successfully!
 
 
 
