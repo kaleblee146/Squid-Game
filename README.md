@@ -12,6 +12,15 @@ Modules: Turtle, Random, Tkinter
 Turtle helps with placement of the character and the enemies, and writing the text onto the screen.
 Tkinter helps with the UI, with a variety of different components. I mainly used the buttons.
 
+### **Program Snapshots**
+
+
+### **How To Run **
+[!Note]
+Keep in mind, I am running MacOS, so here is how I ran it on Mac.
+
+
+
 
 
 
