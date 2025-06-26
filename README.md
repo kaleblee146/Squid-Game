@@ -15,10 +15,10 @@ Tkinter helps with the UI, with a variety of different components. I mainly used
 ### **Program Snapshots**
 
 <p float="left">
-  <img src="images/Demo/main_menu.png" width="200" />
-  <img src="images/Demo/how_to_play.png" width="200" />
-   <img src="images/Demo/in_game.png" width="200" />
-   <img src="images/Demo/finished_screen.png" width="200" />
+  <img src="images/Demo/main_menu.png" width="400" />
+  <img src="images/Demo/how_to_play.png" width="400" />
+   <img src="images/Demo/in_game.png" width="400" />
+   <img src="images/Demo/finished_screen.png" width="400" />
 </p>
 
 
