@@ -19,7 +19,7 @@ Tkinter helps with the UI, with a variety of different components. I mainly used
 **Note:**
 Keep in mind, I am running MacOS, so here is how I ran it on Mac.
 
-##Terminal
+## Terminal
 1. Download the zip file for this project and extract it.
 2. Open Terminal
 3. Navigate to the project directory by using:
@@ -36,7 +36,12 @@ Keep in mind, I am running MacOS, so here is how I ran it on Mac.
    ```bash
    python3 main.py
    ```
-6. A screen should pop up with the program loaded. 
+6. A screen should pop up with the program loaded.
+
+## On VSCode or IDE
+1. Simply open the file directory when loading up the IDE.
+2. Click the run button in the top-right corner.
+3. A file should open with the program loaded.
 
 
 
