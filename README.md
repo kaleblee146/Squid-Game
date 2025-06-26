@@ -14,6 +14,8 @@ Tkinter helps with the UI, with a variety of different components. I mainly used
 
 ### **Program Snapshots**
 
+![Main Menu](images/Demo/main_menu.png)
+
 
 ### How To Run 
 **Note:**
