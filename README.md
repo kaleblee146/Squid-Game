@@ -15,7 +15,7 @@ Tkinter helps with the UI, with a variety of different components. I mainly used
 ### **Program Snapshots**
 
 
-### **How To Run **
+### How To Run 
 **Note:**
 Keep in mind, I am running MacOS, so here is how I ran it on Mac.
 
